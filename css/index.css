@@ -1,0 +1,170 @@
+nav{
+    width: 100%;
+    height: 60px;
+    background-color: rgba(0, 0, 0, 0.882);
+    /* position: fixed; */
+}
+nav button{
+    width: 100px;
+    height: 40px;
+color: #fff;
+background-color: rgba(172, 255, 47, 0.575);
+margin-left: 1380px;
+margin-top: 10px;
+padding: 6px;
+font-size: 13px;
+border-radius: 7px;
+}
+#yy{
+    width: 100%;
+    height: 60px;
+    background-color: rgba(0, 0, 255, 0.562);
+    /* position: fixed; */
+
+}
+/* #wewe{
+    position: fixed;
+} */
+#ee{
+padding-left: 150px;
+padding-top: 12px;
+user-select: none;
+font-size: 30px;
+color: #fff;
+    
+}
+#yy #ee b{
+    background-color: #fff;
+    border-radius: 50%;
+    color: rgba(0, 0, 255, 0.562);
+    padding: 6px 6px;
+    position: relative;
+    
+}
+#rr{
+margin-left: 600px;
+margin-bottom: 200px;
+font-size: 20px;
+}
+#ww{
+margin-left: 800px;
+margin-bottom: 200px;
+}
+#yy #ee ul li{
+    margin: 9px ;
+    padding: 10px 12px;
+    display: inline-block;
+    padding-top: 100px;
+
+}
+#iii{
+margin-left: 570px;
+font-weight: bold;
+font-size: 30px;
+
+}
+#ii{
+    margin-left: 628px;
+
+
+}
+#photo{
+margin: 130px;
+
+
+
+}
+#photo p{
+    margin-left: 145px;
+    font-size: 25px;
+    padding-bottom: 20px;
+}
+#ff{    
+margin-left: 20px;
+
+}
+pre{
+font-size: 25px;
+
+
+}
+/* #photo{
+    transition: 2s 1s all cubic-bezier(0.075, 0.82, 0.165, 1)
+
+} */
+#xxx{
+    width: 100%;
+    height: 1600px;
+    background-color:#eaecee  ;
+    background-size: cover;
+}
+#xxx pre #uuu{
+font-weight: 30;
+font-size: 30px;
+}
+#xxx pre #ttt{
+font-size: smaller;
+font-size: 13px;
+font-weight:450;
+}
+#eeee{
+margin-left: 550px;
+margin-top: 50px;
+}
+#qwqw{
+    width: 300px;
+    height: 150px;
+ border:solid 1px ;
+ display: inline-block;
+ border-radius: 5%;
+ margin-left: 25px;
+ margin-bottom: 25px;
+ color:#d5d8dc ;
+ }
+ #qwq{
+    width: 300px;
+    height: 150px;
+ border:solid 1px ;
+ display: inline-block;
+ border-radius: 5%;
+ margin-left: 25px;
+ margin-bottom: 25px;
+ color:#d5d8dc ;
+ }
+ #qw{
+    width: 300px;
+    height: 150px;
+ border:solid 1px ;
+ display: inline-block;
+ border-radius: 5%;
+ margin-left: 25px;
+ margin-bottom: 25px;
+ color:#d5d8dc ;
+ }
+ #qwg{
+    width: 300px;
+    height: 150px;
+ border:solid 1px ;
+ display: inline-block;
+ border-radius: 5%;
+ margin-left: 25px;
+ margin-bottom: 25px;
+ color:#d5d8dc ;
+ }
+ #qa{
+margin-left: 130px;
+
+ }
+ #qa #tt{
+padding-top: 80px;
+padding-left: 67px;
+font-size: 17px;
+color: #566573;
+
+ }
+ #xv{
+background-color: #2e86c1 ;
+border-radius: 10%;
+
+ }
+    
